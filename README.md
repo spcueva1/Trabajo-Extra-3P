@@ -28,17 +28,63 @@ Presentar el funcionamiento correcto de lo creado, de esta forma realizar operac
 
 ¿Qué es App Inventor?
 
-Es una herramienta de desarrollo muy visual y más o menos sencilla de usar. Útil para los programadores sin experiencia, ya que permite desarrollar aplicaciones complejas y con una gran cantidad de funcionalidades. "Facilita la creación de aplicaciones de manera intuitiva y gráfica"
+- Es una herramienta de desarrollo muy visual y más o menos sencilla de usar. Útil para los programadores sin experiencia, ya que permite desarrollar aplicaciones complejas y con una gran cantidad de funcionalidades. "Facilita la creación de aplicaciones de manera intuitiva y gráfica"
 
 Las características más importantes de App Inventor son:
 
-Es software libre, no es necesario la adquisición de licencias por parte del profesor y los alumnos.
+- Es software libre, no es necesario la adquisición de licencias por parte del profesor y los alumnos.
 
-Es multiplataforma: requiere sólo de un navegador y la máquina virtual de Java instalada, con “java web start”.
+- Es multiplataforma: requiere sólo de un navegador y la máquina virtual de Java instalada, con “java web start”.
 
-Es programación para dispositivos móviles.
+- Es programación para dispositivos móviles.
 
 ![](2)
+
+Numeros complejos.
+
+- Los números complejos son la herramienta de trabajo del álgebra, análisis, así como de ramas de las matemáticas puras y aplicadas como variable compleja, ecuaciones diferenciales, facilita el cálculo de integrales, en aerodinámica, hidrodinámica y electromagnetismo entre otras de gran importancia.
+
+Para sus transformaciones:
+
+- Los numeros rectangulares complejos son aquellos que los representábamos en una recta (la recta real), los complejos tenemos que representarlos en un plano (el plano complejo), ya que tienen parte real y parte imaginaria.
+
+- Los numeros polares son los que se encuentran en el eje horizontal es el eje real y el eje vertical es el eje imaginario. Encontramos los componentes reales y complejos en términos de r y θ donde r es la longitud del vector y θ es el ángulo hecho con el eje real.
+
+Para sus transformaciones necesitamos tener en cuenta los conocimiemtos basicos de trigonometria estos: el teorema de pitagoras y las identidades de un triangulo rectangulo.
+
+![](3)
+
+Del teorema de Pitágoras :
+
+![](4)
+
+Por el uso de las relaciones trigonométricas básicas:
+
+![](5)
+
+Multiplicando cada lado por r :
+
+![](6)
+
+La forma rectangular de un número complejo está dada por
+
+![](7)
+
+Sustituya los valores de a y b
+
+![](8)
+
+Mapa conceptual 
+
+3.- Procedimiento
+
+4.- Resultados
+
+5.- Video
+
+6.- Conclusiones
+
+7.- Bibliografia.
 
 
 
