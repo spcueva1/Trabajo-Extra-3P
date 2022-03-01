@@ -26,3 +26,19 @@ Presentar el funcionamiento correcto de lo creado, de esta forma realizar operac
 
 ![](1)
 
+¿Qué es App Inventor?
+
+Es una herramienta de desarrollo muy visual y más o menos sencilla de usar. Útil para los programadores sin experiencia, ya que permite desarrollar aplicaciones complejas y con una gran cantidad de funcionalidades. "Facilita la creación de aplicaciones de manera intuitiva y gráfica"
+
+Las características más importantes de App Inventor son:
+
+Es software libre, no es necesario la adquisición de licencias por parte del profesor y los alumnos.
+
+Es multiplataforma: requiere sólo de un navegador y la máquina virtual de Java instalada, con “java web start”.
+
+Es programación para dispositivos móviles.
+
+![](2)
+
+
+
