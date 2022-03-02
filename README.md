@@ -6,15 +6,15 @@ Tema: Creación de una Aplicación móvil en App inventor para la conversión de
 
 Objetivo General:
 
-Realizar un aplicativo simulando a una calculadora, mediante el uso eficiente de app inventor, de esta manera aplicar los conocimientos básicos de fasores.
+- Realizar un aplicativo simulando a una calculadora, mediante el uso eficiente de app inventor, de esta manera aplicar los conocimientos básicos de fasores.
 
 Objetivos especificos:
 
-Identificar las diversas herramientas que nos proporciona el aplicativa app invetor para el control de sus propiedades.
+- Identificar las diversas herramientas que nos proporciona el aplicativa app invetor para el control de sus propiedades.
 
-Visualizar las características principales de las transformaciones de números complejos, de esta manera ponerlos en práctica realizando una calculadora.
+- Visualizar las características principales de las transformaciones de números complejos, de esta manera ponerlos en práctica realizando una calculadora.
 
-Presentar el funcionamiento correcto de lo creado, de esta forma realizar operaciones básicas con fasores.
+- Presentar el funcionamiento correcto de lo creado, de esta forma realizar operaciones básicas con fasores.
 
 2.- MARCO TEORICO 
 
@@ -100,7 +100,43 @@ Mapa conceptual
 
 ![](https://github.com/spcueva1/Trabajo-Extra-3P/blob/4851727615dc8325f4e77278badac6d178906d51/appinventor/5.PNG)
 
+- Para elabracion del mismo primero buscamos en la parte de blocks lo primordial del sistema que es el boton para elaborar el codigo dependiendo el boton que se señale. Como se muestra en la imagen. Al momento de ubicar el boton necesitamos obtener su funcionamiento en la pantalla que se muestra. 
+
+![](1)
+
+- Seguido de hubicar cada elemento del boton. Necesitamos ubicar el label donde se va a mostrar el reultado de la ejecucion.
+
+![](2)
+
+- A partir de hubicar el label donde se va a mostrar la respuesta. Debemos anlaizar y comenzar a obtener los elementos para realizar los calclulos en la parte de matematica.
+
+![](3)
+
+- Entonces dependiendo las operaciones obtenemos sus elementos y seguido ubicamos los diferentes labels donde podemos ingresar los datos.
+
+![](4)
+
+- Comenzamos a unicar cada elemento obtenido gracias a lo eficiente que es la parte el blocks y gracias a su union rapida y eficiente ubicado correctamente nos queda de la siguiente manera.
+
+![](5)
+
 Toda esta calculadora se podra ir realizando dependiendo la finalidad y sus caracteristicas principales. 
+
+- El codigo para la transformacion de rectangular a polar nos queda de la sigueinte manera.
+
+![](6)
+
+- El codigo para la transformacion de polar a rectangular nos queda de la sigueinte manera.
+
+![](7)
+
+- El codigo para la suma y resta de fasores
+
+![](8)
+
+- El codigo para la multiplicacion y division.
+
+![](9)
 
 4.- Resultados
 
