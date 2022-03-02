@@ -146,6 +146,8 @@ Y su funcionamiento es:
 
 5.- Video
 
+// EDITAR 
+
 6.- Conclusiones
 
 - Gracias a todo lo anterior, podemos utilizar el sistema de la calculadora para tener las conversiones de los numeros complejos como tambien podemos realizar operaciones basicas de fasores como lo es suma, resta, multiplicacion y division.
