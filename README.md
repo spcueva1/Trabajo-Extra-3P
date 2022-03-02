@@ -102,41 +102,41 @@ Mapa conceptual
 
 - Para elabracion del mismo primero buscamos en la parte de blocks lo primordial del sistema que es el boton para elaborar el codigo dependiendo el boton que se señale. Como se muestra en la imagen. Al momento de ubicar el boton necesitamos obtener su funcionamiento en la pantalla que se muestra. 
 
-![](1)
+![](https://github.com/spcueva1/Trabajo-Extra-3P/blob/b555568e0ba1f4d21446c4e1ea6d53de99b2d1c7/explicacion/1.PNG)
 
 - Seguido de hubicar cada elemento del boton. Necesitamos ubicar el label donde se va a mostrar el reultado de la ejecucion.
 
-![](2)
+![](https://github.com/spcueva1/Trabajo-Extra-3P/blob/b555568e0ba1f4d21446c4e1ea6d53de99b2d1c7/explicacion/2.PNG)
 
 - A partir de hubicar el label donde se va a mostrar la respuesta. Debemos anlaizar y comenzar a obtener los elementos para realizar los calclulos en la parte de matematica.
 
-![](3)
+![](https://github.com/spcueva1/Trabajo-Extra-3P/blob/b555568e0ba1f4d21446c4e1ea6d53de99b2d1c7/explicacion/3.PNG)
 
 - Entonces dependiendo las operaciones obtenemos sus elementos y seguido ubicamos los diferentes labels donde podemos ingresar los datos.
 
-![](4)
+![](https://github.com/spcueva1/Trabajo-Extra-3P/blob/b555568e0ba1f4d21446c4e1ea6d53de99b2d1c7/explicacion/4.PNG)
 
 - Comenzamos a unicar cada elemento obtenido gracias a lo eficiente que es la parte el blocks y gracias a su union rapida y eficiente ubicado correctamente nos queda de la siguiente manera.
 
-![](5)
+![](https://github.com/spcueva1/Trabajo-Extra-3P/blob/b555568e0ba1f4d21446c4e1ea6d53de99b2d1c7/explicacion/5.PNG)
 
 Toda esta calculadora se podra ir realizando dependiendo la finalidad y sus caracteristicas principales. 
 
 - El codigo para la transformacion de rectangular a polar nos queda de la sigueinte manera.
 
-![](6)
+![](https://github.com/spcueva1/Trabajo-Extra-3P/blob/b555568e0ba1f4d21446c4e1ea6d53de99b2d1c7/explicacion/6.PNG)
 
 - El codigo para la transformacion de polar a rectangular nos queda de la sigueinte manera.
 
-![](7)
+![](https://github.com/spcueva1/Trabajo-Extra-3P/blob/b555568e0ba1f4d21446c4e1ea6d53de99b2d1c7/explicacion/7.PNG)
 
 - El codigo para la suma y resta de fasores
 
-![](8)
+![](https://github.com/spcueva1/Trabajo-Extra-3P/blob/b555568e0ba1f4d21446c4e1ea6d53de99b2d1c7/explicacion/8.PNG)
 
 - El codigo para la multiplicacion y division.
 
-![](9)
+![](https://github.com/spcueva1/Trabajo-Extra-3P/blob/b555568e0ba1f4d21446c4e1ea6d53de99b2d1c7/explicacion/9.PNG)
 
 4.- Resultados
 
