@@ -80,7 +80,65 @@ Mapa conceptual
 
 3.- Procedimiento
 
+- Ingresar a internt y buscar app inventor, ingresar y colocar en crear aplicacion.
+
+![](1)
+
+- Inciar un nuevo proyecto y de esta manera colocar el nombre de la aplicacion y asi comenzar a diseñar el proyecto.
+
+![](2)
+
+- En la parte izquierda se puede escoger cualquier tipo de señaletica que se desea colocar en la pantalla del movil que se encuentra en la mitad, mientras que en la parte derecha se puede observar 
+
+![](3)
+
+- En la parte superior derecha dando click en blocks se puede realizar el codigo o funcionamiento del programa.
+
+![](4)
+
+- Se puede  observar en la parte izquierda que se tiene todos elementos colocados en la pantalla y de esta manera se va a ocupar la parte de matematica y es por esto que se tiene que unicaamente arrastrar los elemento e ir uniendo.
+
+![](5)
+
+Toda esta calculadora se podra ir realizando dependiendo la finalidad y sus caracteristicas principales. 
+
 4.- Resultados
+
+Para la transformacion de rectangulares a polares se tiene la aplicacion: 
+La aplicacion tiene el siguiente codigo QR
+
+![](6)
+
+Y su funcionamiento es: 
+
+![](7)
+
+Para la transformacion de polares a rectangulares se tiene la aplicacion: 
+La aplicacion tiene el siguiente codigo QR
+
+![](8)
+
+Y su funcionamiento es: 
+
+![](9)
+
+Para la suma y resta de los numeros complejos se tiene la aplicacion: 
+La aplicacion tiene el siguiente codigo QR
+
+![](10)
+
+Y su funcionamiento es: 
+
+![](11)
+
+Para la multiplicacion y division de los numeros complejos se tiene la aplicacion: 
+La aplicacion tiene el siguiente codigo QR
+
+![](10)
+
+Y su funcionamiento es: 
+
+![](11)
 
 5.- Video
 
