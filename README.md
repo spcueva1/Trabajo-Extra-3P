@@ -158,5 +158,13 @@ Y su funcionamiento es:
 
 7.- Bibliografia.
 
+- Luis, J. (23 de Mayo de 2020). Curso app inventor. Obtenido de https://www.youtube.com/watch?v=YoYyMRggpro
+- 
+- Meza, D. (24 de marzo de 2018). ING DIEGO. Obtenido de https://www.youtube.com/watch?v=yNj7gN4ELZ8
+- 
+- Paredes, E. (2019 de Abril de 2019). carakenio73. Obtenido de https://dademuch.com/2019/04/08/representacion-fasorial-de-corrientes-y-voltajes-fasores/
+
+
+
 
 
