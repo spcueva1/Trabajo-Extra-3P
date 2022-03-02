@@ -148,6 +148,14 @@ Y su funcionamiento es:
 
 6.- Conclusiones
 
+- Gracias a todo lo anterior, podemos utilizar el sistema de la calculadora para tener las conversiones de los numeros complejos como tambien podemos realizar operaciones basicas de fasores como lo es suma, resta, multiplicacion y division.
+
+- Se logro identificar las distintas herramientas que se tiene en el  aplicativo app inventor y de esta manera se logro ocupar algunos elementos para el diseño eficiente de la calculadora de fasores. 
+
+- Gracias a la teoria como son las relaciones trigonométricas básica se tuvo un correcto funcionamieto del sistema ya que gracias al mismo se logro culminar de una manera eficiente el sistema.
+
+- Mediante la explicaion en la parte 5 donde se preseta el video se pudo explicar desde cero como crear el app y sus distintas funcionalidaes e inclusive la instalacion en el celular y como es su funcionamiento. 
+
 7.- Bibliografia.
 
 
