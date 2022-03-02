@@ -105,6 +105,7 @@ Toda esta calculadora se podra ir realizando dependiendo la finalidad y sus cara
 4.- Resultados
 
 Para la transformacion de rectangulares a polares se tiene la aplicacion: 
+
 La aplicacion tiene el siguiente codigo QR
 
 ![](https://github.com/spcueva1/Trabajo-Extra-3P/blob/4851727615dc8325f4e77278badac6d178906d51/appinventor/6.PNG)
@@ -114,6 +115,7 @@ Y su funcionamiento es:
 ![](https://github.com/spcueva1/Trabajo-Extra-3P/blob/4851727615dc8325f4e77278badac6d178906d51/appinventor/7.PNG)
 
 Para la transformacion de polares a rectangulares se tiene la aplicacion: 
+
 La aplicacion tiene el siguiente codigo QR
 
 ![](https://github.com/spcueva1/Trabajo-Extra-3P/blob/4851727615dc8325f4e77278badac6d178906d51/appinventor/8.PNG)
@@ -123,6 +125,7 @@ Y su funcionamiento es:
 ![](https://github.com/spcueva1/Trabajo-Extra-3P/blob/4851727615dc8325f4e77278badac6d178906d51/appinventor/9.PNG)
 
 Para la suma y resta de los numeros complejos se tiene la aplicacion: 
+
 La aplicacion tiene el siguiente codigo QR
 
 ![](https://github.com/spcueva1/Trabajo-Extra-3P/blob/4851727615dc8325f4e77278badac6d178906d51/appinventor/10.PNG)
@@ -132,6 +135,7 @@ Y su funcionamiento es:
 ![](https://github.com/spcueva1/Trabajo-Extra-3P/blob/4851727615dc8325f4e77278badac6d178906d51/appinventor/11.PNG)
 
 Para la multiplicacion y division de los numeros complejos se tiene la aplicacion: 
+
 La aplicacion tiene el siguiente codigo QR
 
 ![](https://github.com/spcueva1/Trabajo-Extra-3P/blob/4851727615dc8325f4e77278badac6d178906d51/appinventor/12.PNG)
