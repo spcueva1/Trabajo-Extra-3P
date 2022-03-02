@@ -76,6 +76,8 @@ Sustituya los valores de a y b
 
 Mapa conceptual 
 
+![](TRABAJO_EXTRA/mapoa.jpg)
+
 3.- Procedimiento
 
 4.- Resultados
