@@ -82,23 +82,23 @@ Mapa conceptual
 
 - Ingresar a internt y buscar app inventor, ingresar y colocar en crear aplicacion.
 
-![](1)
+![](https://github.com/spcueva1/Trabajo-Extra-3P/blob/4851727615dc8325f4e77278badac6d178906d51/appinventor/1.PNG)
 
 - Inciar un nuevo proyecto y de esta manera colocar el nombre de la aplicacion y asi comenzar a diseñar el proyecto.
 
-![](2)
+![](https://github.com/spcueva1/Trabajo-Extra-3P/blob/4851727615dc8325f4e77278badac6d178906d51/appinventor/2.PNG)
 
 - En la parte izquierda se puede escoger cualquier tipo de señaletica que se desea colocar en la pantalla del movil que se encuentra en la mitad, mientras que en la parte derecha se puede observar 
 
-![](3)
+![](https://github.com/spcueva1/Trabajo-Extra-3P/blob/4851727615dc8325f4e77278badac6d178906d51/appinventor/3.PNG)
 
 - En la parte superior derecha dando click en blocks se puede realizar el codigo o funcionamiento del programa.
 
-![](4)
+![](https://github.com/spcueva1/Trabajo-Extra-3P/blob/4851727615dc8325f4e77278badac6d178906d51/appinventor/4.PNG)
 
 - Se puede  observar en la parte izquierda que se tiene todos elementos colocados en la pantalla y de esta manera se va a ocupar la parte de matematica y es por esto que se tiene que unicaamente arrastrar los elemento e ir uniendo.
 
-![](5)
+![](https://github.com/spcueva1/Trabajo-Extra-3P/blob/4851727615dc8325f4e77278badac6d178906d51/appinventor/5.PNG)
 
 Toda esta calculadora se podra ir realizando dependiendo la finalidad y sus caracteristicas principales. 
 
@@ -107,38 +107,38 @@ Toda esta calculadora se podra ir realizando dependiendo la finalidad y sus cara
 Para la transformacion de rectangulares a polares se tiene la aplicacion: 
 La aplicacion tiene el siguiente codigo QR
 
-![](6)
+![](https://github.com/spcueva1/Trabajo-Extra-3P/blob/4851727615dc8325f4e77278badac6d178906d51/appinventor/6.PNG)
 
 Y su funcionamiento es: 
 
-![](7)
+![](https://github.com/spcueva1/Trabajo-Extra-3P/blob/4851727615dc8325f4e77278badac6d178906d51/appinventor/7.PNG)
 
 Para la transformacion de polares a rectangulares se tiene la aplicacion: 
 La aplicacion tiene el siguiente codigo QR
 
-![](8)
+![](https://github.com/spcueva1/Trabajo-Extra-3P/blob/4851727615dc8325f4e77278badac6d178906d51/appinventor/8.PNG)
 
 Y su funcionamiento es: 
 
-![](9)
+![](https://github.com/spcueva1/Trabajo-Extra-3P/blob/4851727615dc8325f4e77278badac6d178906d51/appinventor/9.PNG)
 
 Para la suma y resta de los numeros complejos se tiene la aplicacion: 
 La aplicacion tiene el siguiente codigo QR
 
-![](10)
+![](https://github.com/spcueva1/Trabajo-Extra-3P/blob/4851727615dc8325f4e77278badac6d178906d51/appinventor/10.PNG)
 
 Y su funcionamiento es: 
 
-![](11)
+![](https://github.com/spcueva1/Trabajo-Extra-3P/blob/4851727615dc8325f4e77278badac6d178906d51/appinventor/11.PNG)
 
 Para la multiplicacion y division de los numeros complejos se tiene la aplicacion: 
 La aplicacion tiene el siguiente codigo QR
 
-![](10)
+![](https://github.com/spcueva1/Trabajo-Extra-3P/blob/4851727615dc8325f4e77278badac6d178906d51/appinventor/12.PNG)
 
 Y su funcionamiento es: 
 
-![](11)
+![](https://github.com/spcueva1/Trabajo-Extra-3P/blob/4851727615dc8325f4e77278badac6d178906d51/appinventor/13.PNG)
 
 5.- Video
 
