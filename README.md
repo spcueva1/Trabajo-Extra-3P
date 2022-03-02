@@ -24,7 +24,7 @@ Presentar el funcionamiento correcto de lo creado, de esta forma realizar operac
 
 - Tambien, un fasor es un número complejo que representa la magnitud y la fase de una senoide. A este vector radial se le llama fasor en ingeniería eléctrica, y tiene magnitud constante con un extremo fijo en el origen. Los circuitos de voltaje y corriente alterna son excitados por fuentes senoidales.
 
-![](1)
+![](TRABAJO_EXTRA/1.png)
 
 ¿Qué es App Inventor?
 
@@ -38,7 +38,7 @@ Las características más importantes de App Inventor son:
 
 - Es programación para dispositivos móviles.
 
-![](2)
+![](TRABAJO_EXTRA/2.png)
 
 Numeros complejos.
 
@@ -52,27 +52,27 @@ Para sus transformaciones:
 
 Para sus transformaciones necesitamos tener en cuenta los conocimiemtos basicos de trigonometria estos: el teorema de pitagoras y las identidades de un triangulo rectangulo.
 
-![](3)
+![](TRABAJO_EXTRA/3.png)
 
 Del teorema de Pitágoras :
 
-![](4)
+![](TRABAJO_EXTRA/4.png)
 
 Por el uso de las relaciones trigonométricas básicas:
 
-![](5)
+![](TRABAJO_EXTRA/5.png)
 
 Multiplicando cada lado por r :
 
-![](6)
+![](TRABAJO_EXTRA/6.png)
 
 La forma rectangular de un número complejo está dada por
 
-![](7)
+![](TRABAJO_EXTRA/7.png)
 
 Sustituya los valores de a y b
 
-![](8)
+![](TRABAJO_EXTRA/8.png)
 
 Mapa conceptual 
 
